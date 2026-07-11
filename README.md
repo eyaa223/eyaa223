@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Eya Ouerheni 👩‍💻
+# Hi there, I'm Eya Ouerheni 
 
 ### Full-Stack Developer — React.js · Node.js · Angular · AI Integration
 
