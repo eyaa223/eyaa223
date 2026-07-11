@@ -5,8 +5,7 @@
 ### Full-Stack Developer · React.js · Node.js · Angular · AI Integration
 
 Designing and building modern, scalable, and user-focused web applications with clean architecture and thoughtful engineering.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Full--Stack%20Developer-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-eya-ouerheni.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-ourheni-56386633a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyaa223)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ourhenieya@gmail.com)
