@@ -1,113 +1,143 @@
 <div align="center">
 
-# Hi there, I'm Eya Ouerheni 
+# Eya Ouerheni
 
-### Full-Stack Developer — React.js · Node.js · Angular · AI Integration
+### Full-Stack Developer · React.js · Node.js · Angular · AI Integration
 
-Building modern, scalable, and user-focused web applications with clean architecture and innovative technologies.
+Designing and building modern, scalable, and user-focused web applications with clean architecture and thoughtful engineering.
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-ourheni-56386633a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyaa223)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ourhenieya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ourhenieya@gmail.com)
 
 </div>
 
----
+<br>
 
-## About Me
+## About
 
-Full-Stack Developer specialized in designing and developing modern web applications. Graduate of Software Engineering and Information Systems from ISALIB, with a strong focus on building scalable applications across the full stack — frontend, backend, database management, and intelligent solutions. Particularly interested in Artificial Intelligence, cloud technologies, and the development of innovative digital products.
+I'm a Full-Stack Developer with a Bachelor's degree in Software Engineering and Information Systems from ISALIB. My work centers on building scalable, production-grade applications — from robust backend architectures to polished, responsive interfaces — with a growing specialization in integrating AI-powered features into real-world products.
 
-## Current Focus
+I'm particularly drawn to the intersection of software engineering, artificial intelligence, and cloud infrastructure, and I approach each project with an emphasis on clean code, maintainability, and long-term scalability.
 
-- Building full-stack web applications
-- Integrating AI features into modern platforms
-- Developing scalable REST APIs
-- Improving application performance and user experience
-- Exploring Cloud and DevOps technologies
+**Currently focused on:**
 
----
+- Architecting full-stack web applications end to end
+- Integrating AI-driven features into production platforms
+- Designing and scaling REST APIs
+- Optimizing application performance and user experience
+- Deepening expertise in Cloud and DevOps practices
+
+<br>
 
 ## Tech Stack
 
-**Frontend**
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,vite" alt="Frontend stack" />
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,vite&theme=dark" alt="Frontend stack" />
+
+</td>
+<td valign="top" width="25%">
 
 **Backend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java&theme=dark" alt="Backend stack" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" alt="Backend stack" />
+</td>
+<td valign="top" width="25%">
 
 **Database**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark" alt="Database stack" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" alt="Database stack" />
+</td>
+<td valign="top" width="25%">
 
-**Tools & Technologies**
+**Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Tools" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools" />
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
+</td>
+</tr>
+</table>
 
----
+**Also working with:** Stripe API · Google Maps API · i18next · React Router
 
-## Featured Projects
+<br>
 
-### 🤝 DON'ACT — Smart Donation Platform (Final Year Project)
-An intelligent donation management platform connecting donors, associations, and beneficiaries.
+## Featured Work
 
-`React.js` `Node.js` `Express.js` `MySQL` `AI Integration` `Stripe API` `Google Maps API`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Multi-role management system
-- AI-powered feedback generation
-- Intelligent chatbot
-- Online donations
-- Association verification
+### DON'ACT
+**Smart Donation Platform** — Final Year Project
+
+An intelligent donation management platform connecting donors, associations, and beneficiaries through a multi-role system with AI-driven capabilities.
+
+`React.js` `Node.js` `Express.js` `MySQL` `Stripe API` `Google Maps API`
+
+- AI-powered feedback generation and intelligent chatbot
+- Multi-role management and association verification
+- Online donation processing
 - Multilingual support (Arabic, French, English)
 
-### 🛒 Eyanne Shop — Multi-Vendor E-commerce Platform
-A modern marketplace enabling multiple vendors to manage products while customers shop online.
+</td>
+<td width="50%" valign="top">
+
+### Eyanne Shop
+**Multi-Vendor E-commerce Platform**
+
+A marketplace architecture supporting multiple vendors managing their own catalogs, with a full customer-facing ordering experience.
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-- Vendor management
-- Product management
-- Shopping cart
-- Customer ordering system
-- Responsive interface
+- Vendor and product management
+- Shopping cart and ordering system
+- Fully responsive interface
 
-### 🚗 Car Agency Management System
-A full-stack application for managing vehicles and car agency operations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Car Agency Management System
+**Full-Stack Fleet Management Application**
+
+An end-to-end system for managing vehicles and operations within a car rental agency.
 
 `Angular` `Spring Boot` `MySQL`
 
-- Vehicle management
-- QR code integration
-- Customer access to vehicle information
-- REST API architecture
+- Vehicle inventory management
+- QR code integration for vehicle access
+- REST API–driven architecture
 
-### 🔍 Anti-Plagiarism Detection System
-A Python-based plagiarism detection application using a client-server architecture.
+</td>
+<td width="50%" valign="top">
+
+### Anti-Plagiarism Detection System
+**Client-Server Text Analysis Tool**
+
+A Python application built to detect textual similarity across documents using a client-server model.
 
 `Python` `Tkinter` `Socket Programming`
 
-- Text similarity analysis
-- Client-server communication
-- Document analysis
+- Text similarity analysis engine
+- Real-time client-server communication
 
-### 🔐 CryptoVigenere & CaesarCipher
-Cryptography projects implementing classical encryption algorithms.
+</td>
+</tr>
+</table>
 
-`Python`
+**Also built:** CryptoVigenere & CaesarCipher — classical cryptography algorithms implemented in Python, covering encryption, decryption, and cipher theory.
 
-- Encryption/decryption
-- Classical cryptography
-- Algorithm implementation
-
----
+<br>
 
 ## Professional Skills
 
@@ -115,34 +145,38 @@ Full-Stack Web Development · REST API Development · Frontend Architecture · B
 
 ## Certifications & Achievements
 
-- 🏆 Google Developer Groups — 1st Prize Winner
-- 🔐 Cybersecurity Training Certification
-- 📚 Continuous learning in AI, Cloud, and Software Development
+- **1st Prize Winner** — Google Developer Groups
+- **Cybersecurity Training Certification**
+- Ongoing professional development in AI, Cloud, and Software Engineering
 
----
+<br>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyaa223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Eya's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaa223&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=eyaa223&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaa223&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333" alt="Top languages" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyaa223&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyaa223&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub streak" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyaa223&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyaa223&theme=minimal&hide_border=true&color=0A66C2&line=0A66C2&point=333333" alt="Contribution graph" width="90%" />
 
 </div>
 
----
+<br>
 
 ## Contact
 
-**Email:** ourhenieya@gmail.com
-**LinkedIn:** [linkedin.com/in/eya-ourheni-56386633a](https://www.linkedin.com/in/eya-ourheni-56386633a)
-**GitHub:** [github.com/eyaa223](https://github.com/eyaa223)
+| | |
+|---|---|
+| **Email** | ourhenieya@gmail.com |
+| **LinkedIn** | [linkedin.com/in/eya-ourheni-56386633a](https://www.linkedin.com/in/eya-ourheni-56386633a) |
+| **GitHub** | [github.com/eyaa223](https://github.com/eyaa223) |
 
 <div align="center">
+
+<br>
 
 *Code. Learn. Build. Innovate.*
 
